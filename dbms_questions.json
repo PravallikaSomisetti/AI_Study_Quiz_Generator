@@ -1,0 +1,11 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "question": "According to the provided text, what type of dependency does Second Normal Form (2NF) completely eliminate?",
+      "options": ["Transitive dependencies", "Partial dependencies", "Atomic anomalies", "Indivisible relational constraints"],
+      "correct_answer": "Partial dependencies",
+      "explanation": "The text states that 2NF eliminates partial dependencies entirely."
+    }
+  ]
+}

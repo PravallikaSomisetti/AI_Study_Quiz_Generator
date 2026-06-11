@@ -1,0 +1,12 @@
+{
+  "application_constraints": {
+    "min_word_count": 50,
+    "supported_counts": [5, 10, 15],
+    "difficulty_levels": ["Easy", "Medium", "Hard"]
+  },
+  "difficulty_guidelines": {
+    "Easy": "Focus entirely on explicit facts, direct definitions, and key vocabulary explicitly spelled out in the text.",
+    "Medium": "Focus on the relationships between concepts, processes, sequential steps, or structural configurations details.",
+    "Hard": "Focus on inferential reasoning, logical consequences, conditional scenarios, or distinguishing subtle nuances present in the text."
+  }
+}
